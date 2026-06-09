@@ -1,6 +1,6 @@
 # Hi, I'm Malaika Fatima 👋
 
-Full-Stack Web Developer | Laravel | PHP | JavaScript | AI Enthusiast
+Full-Stack Web Developer | AI Enthusiast
 
 ## 🛠️ Tech Stack
 Laravel, PHP, MySQL, JavaScript, HTML, CSS, Stripe API
