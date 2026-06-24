@@ -6,7 +6,7 @@ Full-Stack Web Developer | AI Enthusiast
 Laravel, PHP, MySQL, JavaScript, HTML, CSS, Stripe API
 
 ## 🚀 Projects
-- [Multi Vendor Service Market Place](https://github.com/MalaikaFatima/Multi-Vendor-Service-Marketplace-Platform) - Laravel , React , MYSQl
+- [Multi Vendor Service Market Place](https://github.com/MalaikaFatima/Multi-Vendor-Service-Marketplace-Platform) - Laravel , React , MYSQL
 - [Hotel Management System](https://github.com/MalaikaFatima/hotel-management) — Laravel, Chatbot, Email Notifications
 - [E-Commerce Gift Shop](https://github.com/MalaikaFatima/e-commerce-gift-shop-) — Laravel, Stripe, Admin Panel
 
